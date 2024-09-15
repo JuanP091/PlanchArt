@@ -57,6 +57,15 @@ flutter:
   # the material Icons class.
   uses-material-design: true
 
+  assets:
+    - assets/img/PlanchArteLogo.jpg
+
+  fonts:
+    - family: anton
+      fonts:
+        - asset: assets/fonts/Anton-Regular.ttf
+
+
   # To add assets to your application, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
